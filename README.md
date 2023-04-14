@@ -35,6 +35,10 @@ Executive summary:
             User will get 6% discount for purchases above Rp 300000
             User will get 7% discount for purchases above Rp 500000
    
+   # Flow Chart 
+   ![Cashier Project drawio](https://user-images.githubusercontent.com/67184366/231992641-5c6f0e12-1a94-4f40-b461-82f6e31a977e.png)
+
+   
    # Test Case
    
 * Main Menu 
