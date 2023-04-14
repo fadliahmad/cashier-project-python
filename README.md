@@ -36,3 +36,39 @@ Executive summary:
             User will get 7% discount for purchases above Rp 500000
    
    # Test Case
+   
+* Main Menu 
+![image](https://user-images.githubusercontent.com/67184366/231978112-95b68bd2-36b6-4c05-9e05-9a8ad6cdcba1.png)
+
+* Input Items 
+![image](https://user-images.githubusercontent.com/67184366/231978550-f1275a34-b881-4a71-b19d-9428e870ac2c.png)
+
+* Update barang 
+![image](https://user-images.githubusercontent.com/67184366/231981937-e53fe1e4-e536-4fcc-8b18-391e9a5849dc.png)
+
+In this case, we will try update number of item 
+![image](https://user-images.githubusercontent.com/67184366/231982361-57d0748a-5b58-4352-8346-211cb0b7d732.png)
+
+* Delete Items
+Before we delete some item, we need to try to add another item to cart
+![image](https://user-images.githubusercontent.com/67184366/231982781-f2ea0e81-8653-48bd-8431-1b0ed38c52ba.png)
+
+After we got two items in cart, so we can try to delete one of them 
+![image](https://user-images.githubusercontent.com/67184366/231982984-94f4fd25-660f-42d1-be1c-f76e46d23877.png)
+![image](https://user-images.githubusercontent.com/67184366/231983122-e0270ac9-b9ef-4b25-85ff-1d8cfb26a213.png)
+
+* Check cart
+After deleted 1 item, lets check again our cart
+![image](https://user-images.githubusercontent.com/67184366/231983360-85e6fd72-ea07-433e-a89d-105b4fb1458c.png)
+
+* Check out our order 
+![image](https://user-images.githubusercontent.com/67184366/231983520-a7e822df-223d-450f-be03-f63481ed4430.png)
+
+
+
+
+
+
+
+
+
