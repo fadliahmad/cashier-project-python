@@ -2,7 +2,7 @@
 
 # Project Background
 
-Friend of mine need a program that will help him to build a program that will help him grow his business. The program is a simple self-service cashier program in his supermarket that has features: 
+This is a course project. The story of this project: Friend of mine need a program that will help him to build a program that will help him grow his business. The program is a simple self-service cashier program in his supermarket that has features: 
 - Customers can directly input the items purchased, the number of items purchased, and the price of the items purchased and other features.
 - Customers who are not in the city can buy goods from the supermarket.
 
