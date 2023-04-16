@@ -11,8 +11,10 @@ Executive summary:
 🔧 What I do:
 
     ⚙️ Create functions in cashier_functions.py that later will used in main.py. 
+        - Create functions: input_barang, update_barang, delete_barang, check_order, total_price, show_cart;  
     ⚙️ Create a program in main.py. 
-    📥 Importing the function cashier_function.py that we have created into main.py. 
+        - Create main program: main menu that will call the funtions based on user input; 
+        - Create a logic to accomodating business rule. 
 
 🎯 What I want to get: 
 
